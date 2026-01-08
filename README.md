@@ -4,7 +4,7 @@ AutoJudge is an intelligent system that predicts the difficulty class (Easy, Med
 ## DRIVE link for report -
 https://drive.google.com/file/d/1Jge6gGHWQ_eZpDHCMrnS4WSR7gpC1u5h/view?usp=sharing
 
-## DRIVE link demo video -
+## DRIVE link for demo video -
 https://drive.google.com/file/d/13fcWimF-45w5i6a5tH3LqwY3qMAxYaMf/view?usp=sharing
 
 ## Project Overview
