@@ -56,3 +56,8 @@ The web UI allows you to:
 (These will be populated after running `train_model.py` - check the console output)
 -   **Classification Accuracy**: 55.10%
 -   **Regression RMSE**: 2.0643
+
+## DRIVE link for report -
+https://drive.google.com/file/d/1Jge6gGHWQ_eZpDHCMrnS4WSR7gpC1u5h/view?usp=sharing
+
+## DRIVE link demo video -
