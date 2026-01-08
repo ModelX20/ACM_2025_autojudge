@@ -54,8 +54,5 @@ The web UI allows you to:
 
 ## Evaluation Metrics
 (These will be populated after running `train_model.py` - check the console output)
--   **Classification Accuracy**: ~53%
--   **Regression RMSE**: 1.72
-
-## Author
-[Your Name/Details]
+-   **Classification Accuracy**: 55.10%
+-   **Regression RMSE**: 2.0643
