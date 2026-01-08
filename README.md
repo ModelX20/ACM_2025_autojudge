@@ -1,6 +1,11 @@
 # AutoJudge: Programming Problem Difficulty Predictor
-
 AutoJudge is an intelligent system that predicts the difficulty class (Easy, Medium, Hard) and a numerical difficulty score for programming problems based solely on their textual description.
+
+## DRIVE link for report -
+https://drive.google.com/file/d/1Jge6gGHWQ_eZpDHCMrnS4WSR7gpC1u5h/view?usp=sharing
+
+## DRIVE link demo video -
+https://drive.google.com/file/d/13fcWimF-45w5i6a5tH3LqwY3qMAxYaMf/view?usp=sharing
 
 ## Project Overview
 
@@ -57,7 +62,3 @@ The web UI allows you to:
 -   **Classification Accuracy**: 55.10%
 -   **Regression RMSE**: 2.0643
 
-## DRIVE link for report -
-https://drive.google.com/file/d/1Jge6gGHWQ_eZpDHCMrnS4WSR7gpC1u5h/view?usp=sharing
-
-## DRIVE link demo video -
